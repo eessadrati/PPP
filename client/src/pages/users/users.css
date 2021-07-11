@@ -1,0 +1,19 @@
+.users{
+    margin: auto;
+     width: 50%;
+ }
+ 
+ .usersWrapper{
+     padding: 20px;
+ }
+
+ .chatMenuInput {
+    width: 95%;
+    padding: 10px 7px;
+    border: none;
+    border-bottom: 1px solid gray;
+  }
+
+  .chatMenuInput:hover{
+      outline: rgb(15, 15, 15);
+  }

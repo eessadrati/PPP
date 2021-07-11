@@ -1,0 +1,25 @@
+.feed{
+   margin: auto;
+    width: 50%;
+}
+
+.feedWrapper{
+    padding: 20px;
+}
+.spinner {
+ 
+    height: 200px;
+    width: 200px;
+    position: absolute;
+   top: 50%;
+   left: 50%;
+   margin: -35px 0 0 -35px;
+}
+.spinnerContainer{
+    position: relative;
+   margin :auto;
+   width : 50%;
+    float: center;
+    height: 80px;
+    padding-top: 20px;
+}
